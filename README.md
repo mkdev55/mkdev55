@@ -11,9 +11,6 @@
        alt="snake" /></a>
 </div>
 
-<div>
-  <summary>☎️ contact me</summary>
-<div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
@@ -27,9 +24,9 @@
 </div>
 
 <div> 
-  <summary>💻 GitHub Profile Stats</summary>
+  
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
+    <h2 align="center"> 📊 github profile stats </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/CheekyChee/">
@@ -46,8 +43,7 @@
 </div>
 
 <div>
-  <summary>📈 Latest Activity Graph</summary>
   <br/>
-  <h2 align="center"> latest contribution </h2>
+  <h2 align="center"> latest activity graph contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="socheret's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=CheekyChee&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </div>
