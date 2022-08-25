@@ -30,12 +30,12 @@
       <br/>
         <p align="center">
           <a href="https://github.com/CheekyChee/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheekyChee&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="CheekyChee :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheekyChee&langs_count=6&count_private=true&theme=gruvbox&layout=compact&hide_border=true" alt="CheekyChee :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/CheekyChee/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=CheekyChee&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=CheekyChee&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=CheekyChee&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=CheekyChee&theme=gruvbox&hide_border=true&count_private=true" />
           </a>
        </p>
      <br>
@@ -45,5 +45,5 @@
 <div>
   <br/>
   <h2 align="center"> latest activity graph contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="socheret's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=CheekyChee&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="socheret's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=CheekyChee&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true&theme=react-dark" /></a>
 </div>
