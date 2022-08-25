@@ -45,5 +45,5 @@
 <div>
   <br/>
   <h2 align="center"> latest activity graph contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="socheret's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=CheekyChee&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true&theme=react-dark" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="socheret's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=CheekyChee&hide_border=true&theme=react-dark" /></a>
 </div>
