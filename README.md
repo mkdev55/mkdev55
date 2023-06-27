@@ -44,6 +44,4 @@
 
 <div>
   <br/>
-  <h2 align="center"> latest activity graph contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="socheret's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=mkdev55&hide_border=true&theme=react-dark" /></a>
 </div>
