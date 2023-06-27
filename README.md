@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/mkdev55/mkdev55/blob/main/img/waving.gif">, I'm kheang</h1>
-<h4 align="center">a frontend developer at Asurraa.</h4>
-<h5 align="center">currently building awesome projects with React.</h5>
+<h4 align="center">a Backend and Service Manager at Smart Axiata.</h4>
+<h5 align="center">currently building awesome projects.</h5>
 
 </div>
 
